@@ -28,6 +28,9 @@ SQL Database: The backend uses SQL databases to store and manage user data, task
 ## Backend Repository
 Here is the link to our Backend Repository: https://github.com/Wiztech-01/Taskify_Frontend.git
 
+## Google slides link
+https://docs.google.com/presentation/d/1g5Ny9SYxl3f2LHSHgb44cAtGFwiUMpJ8/edit#slide=id.p11
+
 ## Components
 Taskify's frontend comprises various components that work together seamlessly to deliver a smooth user experience:
 
